@@ -1,0 +1,98 @@
+*{
+
+	margin:0;
+	padding: 0;
+}
+
+body{
+	background: #EBDEF0;
+}
+
+.banner {
+
+	background-image: url("assets/images/b1.jpg");
+	opacity: 0.5;
+	padding: 30px;
+}
+
+  .nav {
+  	background-color:#4A235A;
+  	color: #FDFEFE;
+  	list-style-type: none;
+  	text-align: center;
+
+  }
+
+  .nav > li{
+display: inline-block;
+font-size: 20px;
+padding: 10px;
+padding-right: 50px
+
+  }
+
+.nav li a:hover{
+	color:pink;
+}
+
+  .nav > li > a {
+  	text-decoration: none;
+  	color: #fff;
+  }
+
+.nav > li > a {
+  
+  	color: #fff;
+  }
+ 
+
+.column {
+  float: left;
+  width: 33.33%;
+  text-align: center;
+  text-decoration-color: #5B2C6F;
+  }
+
+  a{
+  	text-decoration: none;
+  }
+
+/*About*/
+
+
+.row2{
+
+	padding:2.5%;
+	width:150%;
+	text-align: center;
+}
+
+.text{
+
+}
+
+/*cakes*/
+.col{
+	float: left;
+  width: 33.33%;
+  text-align: center;
+}
+
+/*Contact Us*/
+
+.legend {
+	margin: : 10px;
+}
+.box {
+padding: 10px; 
+text-align: : center;
+}
+
+.box1 {
+	padding:10px;
+}
+
+.box2 {
+	padding-left: 60px;
+}
+
